@@ -1,0 +1,260 @@
+{
+    "data": [
+        {
+            "Group": "A1",
+            "Flag_Image": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/QAT?tx=c_fill,g_auto,q_auto",
+            "Country_Name": "Qatar",
+            "Country_Name_Short": "QAT",
+            "Latitude": "25.3336984",
+            "Longitude": "51.2295295"
+        },
+        {
+            "Group": "A2",
+            "Flag_Image": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/ECU?tx=c_fill,g_auto,q_auto",
+            "Country_Name": "Ecuador",
+            "Country_Name_Short": "ECU",
+            "Latitude": "-1.3397668",
+            "Longitude": "-79.3666965"
+        },
+        {
+            "Group": "A3",
+            "Flag_Image": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/SEN?tx=c_fill,g_auto,q_auto",
+            "Country_Name": "Senegal",
+            "Country_Name_Short": "SEN",
+            "Latitude": "14.4750607",
+            "Longitude": "-14.4529612"
+        },
+        {
+            "Group": "A4",
+            "Flag_Image": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/NED?tx=c_fill,g_auto,q_auto",
+            "Country_Name": "Netherlands",
+            "Country_Name_Short": "NED",
+            "Latitude": "52.5001698",
+            "Longitude": "5.7480821"
+        },
+        {
+            "Group": "B1",
+            "Flag_Image": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/ENG?tx=c_fill,g_auto,q_auto",
+            "Country_Name": "England",
+            "Country_Name_Short": "ENG",
+            "Latitude": "51.509865",
+            "Longitude": "-0.118092"
+        },
+        {
+            "Group": "B2",
+            "Flag_Image": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/IRN?tx=c_fill,g_auto,q_auto",
+            "Country_Name": "IR Iran",
+            "Country_Name_Short": "IRN",
+            "Latitude": "32.427910",
+            "Longitude": "53.688046"
+        },
+        {
+            "Group": "B3",
+            "Flag_Image": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/USA?tx=c_fill,g_auto,q_auto",
+            "Country_Name": "USA",
+            "Country_Name_Short": "USA",
+            "Latitude": "39.7837304",
+            "Longitude": "-100.4458825"
+        },
+        {
+            "Group": "B4",
+            "Flag_Image": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/WAL?tx=c_fill,g_auto,q_auto",
+            "Country_Name": "Wales",
+            "Country_Name_Short": "WAL",
+            "Latitude": "52.130661",
+            "Longitude": "-3.783712"
+        },
+        {
+            "Group": "C1",
+            "Flag_Image": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/ARG?tx=c_fill,g_auto,q_auto",
+            "Country_Name": "Argentina",
+            "Country_Name_Short": "ARG",
+            "Latitude": "-34.9964963",
+            "Longitude": "-64.9672817"
+        },
+        {
+            "Group": "C2",
+            "Flag_Image": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/KSA?tx=c_fill,g_auto,q_auto",
+            "Country_Name": "Saudi Arabia",
+            "Country_Name_Short": "KSA",
+            "Latitude": "25.6242618",
+            "Longitude": "42.3528328"
+        },
+        {
+            "Group": "C3",
+            "Flag_Image": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/MEX?tx=c_fill,g_auto,q_auto",
+            "Country_Name": "Mexico",
+            "Country_Name_Short": "MEX",
+            "Latitude": "19.4326296",
+            "Longitude": "-99.1331785"
+        },
+        {
+            "Group": "C4",
+            "Flag_Image": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/POL?tx=c_fill,g_auto,q_auto",
+            "Country_Name": "Poland",
+            "Country_Name_Short": "POL",
+            "Latitude": "52.215933",
+            "Longitude": "19.134422"
+        },
+        {
+            "Group": "D1",
+            "Flag_Image": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/FRA?tx=c_fill,g_auto,q_auto",
+            "Country_Name": "France",
+            "Country_Name_Short": "FRA",
+            "Latitude": "46.603354",
+            "Longitude": "1.8883335"
+        },
+        {
+            "Group": "D2",
+            "Flag_Image": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/DEN?tx=c_fill,g_auto,q_auto",
+            "Country_Name": "Denmark",
+            "Country_Name_Short": "DEN",
+            "Latitude": "55.670249",
+            "Longitude": "10.3333283"
+        },
+        {
+            "Group": "D3",
+            "Flag_Image": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/TUN?tx=c_fill,g_auto,q_auto",
+            "Country_Name": "Tunisia",
+            "Country_Name_Short": "TUN",
+            "Latitude": "33.8439408",
+            "Longitude": "9.400138"
+        },
+        {
+            "Group": "D4",
+            "Flag_Image": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/AUS?tx=c_fill,g_auto,q_auto",
+            "Country_Name": "Australia",
+            "Country_Name_Short": "AUS",
+            "Latitude": "-24.7761086",
+            "Longitude": "134.755"
+        },
+        {
+            "Group": "E1",
+            "Flag_Image": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/ESP?tx=c_fill,g_auto,q_auto",
+            "Country_Name": "Spain",
+            "Country_Name_Short": "ESP",
+            "Latitude": "39.3262345",
+            "Longitude": "-4.8380649"
+        },
+        {
+            "Group": "E2",
+            "Flag_Image": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/GER?tx=c_fill,g_auto,q_auto",
+            "Country_Name": "Germany",
+            "Country_Name_Short": "GER",
+            "Latitude": "51.0834196",
+            "Longitude": "10.4234469"
+        },
+        {
+            "Group": "E3",
+            "Flag_Image": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/JPN?tx=c_fill,g_auto,q_auto",
+            "Country_Name": "Japan",
+            "Country_Name_Short": "JPN",
+            "Latitude": "36.5748441",
+            "Longitude": "139.2394179"
+        },
+        {
+            "Group": "E4",
+            "Flag_Image": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/CRC?tx=c_fill,g_auto,q_auto",
+            "Country_Name": "Costa Rica",
+            "Country_Name_Short": "CRC",
+            "Latitude": "10.2735633",
+            "Longitude": "-84.0739102"
+        },
+        {
+            "Group": "F1",
+            "Flag_Image": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/BEL?tx=c_fill,g_auto,q_auto",
+            "Country_Name": "Belgium",
+            "Country_Name_Short": "BEL",
+            "Latitude": "50.6402809",
+            "Longitude": "4.6667145"
+        },
+        {
+            "Group": "F2",
+            "Flag_Image": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/CAN?tx=c_fill,g_auto,q_auto",
+            "Country_Name": "Canada",
+            "Country_Name_Short": "CAN",
+            "Latitude": "61.0666922",
+            "Longitude": "-107.9917071"
+        },
+        {
+            "Group": "F3",
+            "Flag_Image": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/MAR?tx=c_fill,g_auto,q_auto",
+            "Country_Name": "Morocco",
+            "Country_Name_Short": "MAR",
+            "Latitude": "31.1728205",
+            "Longitude": "-7.3362482"
+        },
+        {
+            "Group": "F4",
+            "Flag_Image": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/CRO?tx=c_fill,g_auto,q_auto",
+            "Country_Name": "Croatia",
+            "Country_Name_Short": "CRO",
+            "Latitude": "45.5643442",
+            "Longitude": "17.0118954"
+        },
+        {
+            "Group": "G1",
+            "Flag_Image": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/BRA?tx=c_fill,g_auto,q_auto",
+            "Country_Name": "Brazil",
+            "Country_Name_Short": "BRA",
+            "Latitude": "-10.3333333",
+            "Longitude": "-53.2"
+        },
+        {
+            "Group": "G2",
+            "Flag_Image": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/SRB?tx=c_fill,g_auto,q_auto",
+            "Country_Name": "Serbia",
+            "Country_Name_Short": "SRB",
+            "Latitude": "44.024322850000004",
+            "Longitude": "21.07657433209902"
+        },
+        {
+            "Group": "G3",
+            "Flag_Image": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/SUI?tx=c_fill,g_auto,q_auto",
+            "Country_Name": "Switzerland",
+            "Country_Name_Short": "SUI",
+            "Latitude": "46.7985624",
+            "Longitude": "8.2319736"
+        },
+        {
+            "Group": "G4",
+            "Flag_Image": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/CMR?tx=c_fill,g_auto,q_auto",
+            "Country_Name": "Cameroon",
+            "Country_Name_Short": "CMR",
+            "Latitude": "4.6125522",
+            "Longitude": "13.1535811"
+        },
+        {
+            "Group": "H1",
+            "Flag_Image": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/POR?tx=c_fill,g_auto,q_auto",
+            "Country_Name": "Portugal",
+            "Country_Name_Short": "POR",
+            "Latitude": "40.0332629",
+            "Longitude": "-7.8896263"
+        },
+        {
+            "Group": "H2",
+            "Flag_Image": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/GHA?tx=c_fill,g_auto,q_auto",
+            "Country_Name": "Ghana",
+            "Country_Name_Short": "GHA",
+            "Latitude": "8.0300284",
+            "Longitude": "-1.0800271"
+        },
+        {
+            "Group": "H3",
+            "Flag_Image": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/URU?tx=c_fill,g_auto,q_auto",
+            "Country_Name": "Uruguay",
+            "Country_Name_Short": "URU",
+            "Latitude": "-32.8755548",
+            "Longitude": "-56.0201525"
+        },
+        {
+            "Group": "H4",
+            "Flag_Image": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/KOR?tx=c_fill,g_auto,q_auto",
+            "Country_Name": "Korea Republic",
+            "Country_Name_Short": "KOR",
+            "Latitude": "37.663998",
+            "Longitude": "127.978462"
+        }
+    ]
+}
